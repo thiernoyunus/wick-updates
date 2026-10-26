@@ -1,3 +1,15 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/surface.svg?title=wick-updates&subtitle=Sparkle+update+feed+for+Wick&logo=apple&mode=dark" />
+    <img alt="wick-updates" src="https://shieldcn.dev/header/surface.svg?title=wick-updates&subtitle=Sparkle+update+feed+for+Wick&logo=apple&mode=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="Sparkle" src="https://shieldcn.dev/badge/Sparkle-Appcast-6b7280.svg?variant=secondary" />
+  <a href="https://github.com/thiernoyunus/wick-updates"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/thiernoyunus/wick-updates.svg?variant=secondary" /></a>
+</p>
+
 # wick-updates
 
 Sparkle appcast feed + release archives for the Wick macOS app.
